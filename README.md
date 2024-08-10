@@ -1,4 +1,5 @@
-# Hi, I'm [Rahul Ghosh](https://qknot.github.io/Portfolio/)
+<h1 align="center">Hi, I'm <a href="https://qknot.github.io/Portfolio/">Rahul Ghosh</a></h1>
+
 
 <!-- <div align="center">
   <img src="https://qknot.github.io/Portfolio/image/rahul.jpg" alt="Rahul Kumar Ghosh" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3498db;">
