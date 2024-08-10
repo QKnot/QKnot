@@ -1,8 +1,8 @@
 # Hi, I'm [Rahul Ghosh](https://qknot.github.io/Portfolio/)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://qknot.github.io/Portfolio/image/rahul.jpg" alt="Rahul Kumar Ghosh" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3498db;">
-</div>
+</div> -->
 
 ## About Me
 
