@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🔭 I'm currently working on [Cover Page Generator](https://qknot.github.io/Cover-Page-Generator/)
+- 🔭 I'm currently working on [Cover Page Generator](https://qknot.github.io/NUBTK-Cover-Page-Generator/)
 - 🌱 I'm currently learning [Quantum Computing](https://learning.quantum.ibm.com/course/basics-of-quantum-information).
 
 <!--
