@@ -6,7 +6,7 @@
 </div> -->
 
 ## About Me
-- 🔭 I'm currently working on(Unversity Formal Application Generator)[https://github.com/QKnot/University-Formal-Application-Generator]
+- 🔭 I'm currently working on [Unversity Formal Application Generator](https://github.com/QKnot/University-Formal-Application-Generator)
 - 🔭 Check Out my project [Cover Page Generator](https://qknot.github.io/NUBTK-Cover-Page-Generator/)
 - 🌱 I'm currently learning [Quantum Computing](https://learning.quantum.ibm.com/course/basics-of-quantum-information).
 
