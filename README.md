@@ -72,7 +72,5 @@ Here are some ideas to get you started:
 ## Contact Information
 
 - 📧 Email 1: [qknot0.3@gmail.com](mailto:qknot0.3@gmail.com)
-- 📧 Email 3: [rahulkumarghosh73939133@gmail.com](mailto:rahulkumarghosh73939133@gmail.com)
-- 📞 Phone: +8801705-367884 | +8801316-481532
 - 💬 [Join My Discord Server](https://discord.gg/sjjSWbU8uV)
 - 🏠 Location: Khulna, Bangladesh
