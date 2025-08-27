@@ -70,6 +70,5 @@ Here are some ideas to get you started:
 
 ## Contact Information
 
-- 📧 Email 1: [qknot0.3@gmail.com](mailto:qknot0.3@gmail.com)
-- 💬 [Join My Discord Server](https://discord.gg/sjjSWbU8uV)
+- 📧 Email : [qknot0.3@gmail.com](mailto:qknot0.3@gmail.com)
 - 🏠 Location: Khulna, Bangladesh
